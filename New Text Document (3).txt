@@ -1,0 +1,11 @@
+git clone repo
+git remote add origin repo
+git fetch (fetches all files)
+git checkout branchname (change branches)
+git checkout -b branchname(creating new branch)
+git branch --set-upstream-to=origin/<branch-name>
+git status
+git add --all
+git commit -m "message"
+git push
+
